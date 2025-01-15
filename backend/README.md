@@ -1,3 +1,3 @@
 ### To get started, start the server
 
-`pnpm run dev`
+npm install @Volkswagentokencoin/miniket-js
